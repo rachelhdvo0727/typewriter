@@ -15,7 +15,7 @@ function start() {
     countLetters();
 
     //Click to hear sounds
-    document.querySelector("button").addEventListener("click", keysSound);
+    //document.querySelector("button").addEventListener("click", keysSound);
 }
 
 function countLetters() {
